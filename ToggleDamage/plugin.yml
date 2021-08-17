@@ -1,0 +1,7 @@
+version: 1.0
+name: ToggleDamage
+main: com.william.plugin.Main
+
+author: me
+description: Allows players to turn on invincibility if they interact with a nether star!
+
