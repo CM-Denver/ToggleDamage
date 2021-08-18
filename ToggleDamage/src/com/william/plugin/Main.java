@@ -5,9 +5,6 @@ import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin implements Listener{
-
-	//Create variable outside onEnable(). We can access this variable if we have access to the Main class:
-	BossBar bossbar;
 	
 	@Override
 	public void onEnable() {
